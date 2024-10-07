@@ -1,2 +1,1 @@
-# ProgrammingNotes
-Programming Notes on Windows
+这是一个Obsidian仓库，Mac电脑上的编程笔记。
