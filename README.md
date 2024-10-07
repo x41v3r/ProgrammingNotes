@@ -1,1 +1,1 @@
-这是一个Obsidian仓库，Mac电脑上的编程笔记。
+这是一个Obsidian仓库，Windows电脑上的编程笔记。

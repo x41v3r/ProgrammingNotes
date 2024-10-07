@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,12 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f504e93a1ad76ea",
+  "active": "6df8828f064c07da",
   "lastOpenFiles": [
+    "README.md",
     "dotNET",
     "Java/Java基础/3.数组.md",
     "Java/Java基础/4.面向对象.md",
-    "README.md",
     "Java/积累总结/未命名.md",
     "Java/Java基础/attachments/constructor-calling-process.png",
     "Java/Java基础/attachments/subclass-obj-memory-analysis.png",
