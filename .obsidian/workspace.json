@@ -23,16 +23,34 @@
             "id": "6a8934a071e04a96",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Java/attachments/java-datatype.png"
+              }
+            }
+          },
+          {
+            "id": "8cdc54b9c2999fca",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Java_/Java基础/4.面向对象.md",
+                "file": "Java/02.Java基本语法.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "10cbec1dc7b338d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java_/Java基础/4.面向对象.md",
+                "file": "Java/02.Java基本语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java_/Java基础/4.面向对象.md",
+                "file": "Java/02.Java基本语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java_/Java基础/4.面向对象.md"
+                "file": "Java/02.Java基本语法.md"
               }
             }
           },
@@ -168,12 +186,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f504e93a1ad76ea",
+  "active": "8cdc54b9c2999fca",
   "lastOpenFiles": [
+    "Java/02.Java基本语法.md",
     "Java_/Java基础/3.数组.md",
-    "Java_/Java基础/4.面向对象.md",
-    "Java_/Java基础/5.异常处理.md",
+    "Java/attachments/java-datatype.png",
+    "Java_/Java基础/2.基本语法.md",
+    "Java_/Java基础/1.Java语言概述.md",
+    "Java/01.Java语言概述.md",
+    "Java/00.Java积累总结.md",
+    "Java/attachments",
+    "PowerShell/00.PowerShell积累总结.md",
+    "PowerShell/01.PowerShell概述.md",
+    "PowerShell/未命名",
+    "PowerShell/cmd.md",
+    "PowerShell/attachments",
     "README.md",
+    "Shell/Powershell",
+    "PowerShell",
+    "Java_/Java基础/4.面向对象.md",
+    "Java",
+    "Java_/Java基础/5.异常处理.md",
     "dotNET",
     "Java_/积累总结/未命名.md",
     "Java_/Java基础/attachments/constructor-calling-process.png",
@@ -186,31 +219,19 @@
     "Frontend/HTML5/attachments/html-special-chars.png",
     "Frontend/HTML5/attachments/formatting-tags.png",
     "Frontend/HTML5/attachments",
-    "Frontend/HTML5",
-    "Frontend",
-    "Android/积累总结",
-    "Android/Kotlin",
-    "Android",
-    "dotNET/积累总结",
     "反思积累/Java.md",
     "积累总结/Java/2.面向对象.md",
     "积累总结/Java/1.基本语法.md",
-    "Java_/Java基础/2.基本语法.md",
-    "Java_/Java基础/1.Java语言概述.md",
     "Java_/Java基础/attachments/while-loop.png",
     "Java_/Java基础/attachments/variable-classes.png",
     "Java_/Java基础/attachments/ternary-operator.png",
     "Java_/Java基础/attachments/switch-case.jpeg",
-    "Java_/Java基础/attachments/short-logic-operators.png",
     "Java_/Java基础/9.集合.md",
     "Java_/Java基础/8.泛型.md",
     "Java_/Java基础/7.注解.md",
     "Java_/Java基础/6.枚举.md",
     "Java_/Java基础/14.网络编程.md",
     "Java_/Java基础/13.反射机制.md",
-    "Java_/Java基础/12.常用类.md",
-    "Java_/Java基础/11.多线程.md",
-    "Java_/Java基础/10.IO流与文件读写.md",
-    "欢迎.md"
+    "Java_/Java基础/12.常用类.md"
   ]
 }
