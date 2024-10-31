@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "06de471d41a9a8f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c80a0e7b167012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6574d6224982bf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/00.Java积累总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Java积累总结"
+            }
+          },
+          {
+            "id": "70e676596b65ecd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/02.Java语法规则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.Java语法规则"
+            }
+          },
+          {
+            "id": "f2256b6eb304e211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b4ce4a5b8f48a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a82ea901883db3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f504e93a1ad76ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9224dd10ced0baaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4f380625e9653a05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a25102a432c628b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ae95747112ab1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f906badcf22ba73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java_/Java基础/2.基本语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.基本语法 的反向链接列表"
+            }
+          },
+          {
+            "id": "497236da298affd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java_/Java基础/2.基本语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.基本语法 的出链列表"
+            }
+          },
+          {
+            "id": "66983316c96b82ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a2e859a5953156ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/02.Java语法规则.md"
+              },
+              "icon": "lucide-list",
+              "title": "02.Java语法规则 的大纲"
+            }
+          },
+          {
+            "id": "d5d1994acebcbcf8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "70e676596b65ecd4",
+  "lastOpenFiles": [
+    "Java/00.Java积累总结.md",
+    "Java/02.Java语法规则.md",
+    "Java/01.Java语言概述.md",
+    "README.md",
+    "Java/attachments/8-primitive-data-types.png",
+    "Java/attachments/primitive-data-type.png",
+    "Java/attachments/variable-classes.png",
+    "Java/attachments/java-datatype.png",
+    "Java/attachments",
+    "dotNET",
+    "Java",
+    "Java_/Java基础/1.Java语言概述.md",
+    "Java_/积累总结/未命名.md",
+    "Java_/Java基础/2.基本语法.md",
+    "Frontend/HTML5/2.常用标签.md",
+    "Frontend/HTML5/1.HTML概述.md",
+    "Frontend/积累总结",
+    "Frontend/HTML5/attachments/using-semantics-tags.png",
+    "Frontend/HTML5/attachments/html-special-chars.png",
+    "Frontend/HTML5/attachments/formatting-tags.png",
+    "Frontend/HTML5/attachments",
+    "Frontend/HTML5",
+    "Frontend/CSS3",
+    "Frontend",
+    "Java_/Java基础/3.数组.md",
+    "Java/attachments",
+    "PowerShell/00.PowerShell积累总结.md",
+    "PowerShell/01.PowerShell概述.md",
+    "PowerShell/未命名",
+    "PowerShell/cmd.md",
+    "Java_/Java基础/4.面向对象.md",
+    "Java_/Java基础/5.异常处理.md",
+    "Java_/Java基础/attachments/constructor-calling-process.png",
+    "Java_/Java基础/attachments/subclass-obj-memory-analysis.png",
+    "反思积累/Java.md",
+    "积累总结/Java/2.面向对象.md",
+    "积累总结/Java/1.基本语法.md",
+    "Java_/Java基础/attachments/while-loop.png",
+    "Java_/Java基础/9.集合.md",
+    "Java_/Java基础/8.泛型.md",
+    "Java_/Java基础/7.注解.md",
+    "Java_/Java基础/6.枚举.md"
+  ]
+}
