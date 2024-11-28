@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/2.Java基本语法.md",
+                "file": "积累总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Java基本语法"
+              "title": "积累总结"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "ae5c74e0c39cf31c",
   "lastOpenFiles": [
-    "Java/1.Java语言.md",
     "Java/2.Java基本语法.md",
+    "MySQL/attachments",
+    "Java/1.Java语言.md",
     "Java_/MybatisPlus.md",
     "Java_/03.Java常用功能.md",
     "Java_/02.Java语法规则.md",
@@ -207,7 +208,6 @@
     "Frontend/HTML5/attachments/using-semantics-tags.png",
     "Frontend/HTML5/attachments/html-special-chars.png",
     "Frontend/HTML5/attachments/formatting-tags.png",
-    "Frontend/HTML5/attachments",
     "Java_/Java基础/3.数组.md",
     "PowerShell/00.PowerShell积累总结.md",
     "PowerShell/01.PowerShell概述.md",
