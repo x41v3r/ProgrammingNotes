@@ -4,5 +4,6 @@
   "attachmentFolderPath": "./attachments",
   "spellcheck": false,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true
 }
